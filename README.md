@@ -11,6 +11,21 @@ Cuisson à 220°C pendant 40mn
 Mettre de l'eau pour la vapeur
 
 
+## Pain Burger
+
+- 200gr levain
+- 500gr farine
+- 200gr de lait
+- 1 oeuf
+- 30gr de beurre
+- 10gr de sel
+- 20gr de sucre
+
+Pour 8 pains
+Préchauffage 200°
+Cuisson 12 / 15min à 200°
+
+
 ## Pizza / Bun's
 
 400 g de farine (pour moi T65)
