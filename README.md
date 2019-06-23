@@ -14,16 +14,16 @@ Mettre de l'eau pour la vapeur
 ## Pain Burger
 
 - 200gr levain
-- 500gr farine
-- 200gr de lait
+- 400gr farine
 - 1 oeuf
 - 30gr de beurre
 - 10gr de sel
-- 20gr de sucre
+
+lait à la place de l'eau
 
 Pour 8 pains
 Préchauffage 200°
-Cuisson 12 / 15min à 200°
+Cuisson 15min à 200°
 
 
 ## Pizza / Bun's
