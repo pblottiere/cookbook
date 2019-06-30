@@ -10,6 +10,8 @@ Préchauffe 250°C
 Cuisson à 220°C pendant 40mn
 Mettre de l'eau pour la vapeur
 
+Pour une baguette, faire cuire 20min à 250° et laisser 5min dans le four éteint en +
+
 
 ## Pain Burger
 
@@ -24,6 +26,8 @@ lait à la place de l'eau
 Pour 8 pains
 Préchauffage 200°
 Cuisson 15min à 200°
+
+1 pain à burger: 250gr de patte
 
 
 ## Pizza / Bun's
@@ -65,3 +69,25 @@ Pour 2 pains kebab:
 150gr environ pour 1 pain. Gallette assez épaisse (8mm environ).
 
 Cuisson à la poele force 6. Bien laisser gonfler
+
+
+## Gauffre
+
+Pour 12 gauffres environ
+
+Étape 1:
+
+- 260gr farine
+- 2 c à s de sucre
+- 470gr de yaourt
+- 280gr de levain non rafraichi
+
+Étape 3: laisser lever
+
+Étape 4: on rajoute
+- 2 gros oeufs
+- 80gr de beurre fondu
+- 1/2 càc de bicarbonate de soude
+- 1 pincée de sel
+
+Cuisson machine à gauffre: 3min30sec
