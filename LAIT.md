@@ -1,4 +1,4 @@
-# Lait
+# CookBook - Lait
 
 ## Yaourt
 
