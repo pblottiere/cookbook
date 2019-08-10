@@ -10,7 +10,8 @@ Préchauffe 250°C
 Cuisson à 220°C pendant 40mn
 Mettre de l'eau pour la vapeur
 
-Pour une baguette, faire cuire 20min à 250° et laisser 5min dans le four éteint en +
+Pour 2 baguette, faire cuire 20min à 250° et laisser 5min dans le four éteint en +
+Pour 4 baguette, faire cuire 30min à 250° et laisser 5min dans le four éteint en +
 
 
 ## Pain Burger
