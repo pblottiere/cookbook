@@ -24,11 +24,11 @@ Pour 4 baguette, faire cuire 30min à 250° et laisser 5min dans le four éteint
 
 lait à la place de l'eau
 
-Pour 8 pains
-Préchauffage 200°
-Cuisson 15min à 200°
+Pour 4 pains
+Préchauffage 240°
+Cuisson 30min à 240°
 
-1 pain à burger: 250gr de patte
+1 pain à burger: 200gr de patte
 
 
 ## Pizza / Bun's
@@ -79,16 +79,16 @@ Pour 12 gauffres environ
 Étape 1:
 
 - 260gr farine
-- 2 c à s de sucre
+- 4 c à s de sucre (essayer 6 car pas très sucré comme ça)
 - 470gr de yaourt
-- 280gr de levain non rafraichi
+- 280gr de levain non rafraichi (rafraîchir quand même la veille sinon on sent un peu le vinaigre, bcp plus que dans le pain)
 
 Étape 3: laisser lever
 
 Étape 4: on rajoute
 - 2 gros oeufs
 - 80gr de beurre fondu
-- 1/2 càc de bicarbonate de soude
+- 1/2 càc de bicarbonate de soude => semble inutile, donc on enlève
 - 1 pincée de sel
 
-Cuisson machine à gauffre: 3min30sec
+Cuisson machine à gauffre: 3min30sec (voir 4min, ca dépend de la pâte)
