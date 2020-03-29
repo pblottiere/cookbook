@@ -92,3 +92,15 @@ Pour 12 gauffres environ
 - 1 pincée de sel
 
 Cuisson machine à gauffre: 3min30sec (voir 4min, ca dépend de la pâte)
+
+
+## Muffins
+
+- 160gr de farine
+- 160gr de sucre
+- 3 œufs
+- 2 càS de cacao en poudre non sucré
+- 30gr de beurre
+- 200 gr de levain
+
+Cuisson 20min à 180.
