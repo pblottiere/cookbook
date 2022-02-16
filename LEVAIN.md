@@ -6,12 +6,22 @@
 - 400gr farine
 - 10gr de sel
 
-Préchauffe 250°C
-Cuisson à 220°C pendant 40mn
+Préchauffe 230°C
+Cuisson à 230°C pendant 40mn
 Mettre de l'eau pour la vapeur
 
 Pour 2 baguette, faire cuire 20min à 250° et laisser 5min dans le four éteint en +
 Pour 4 baguette, faire cuire 30min à 250° et laisser 5min dans le four éteint en +
+
+Pain alongé, sans eau dessus, farine dessus, coupe en long, 30min, 230°, de l'eau pr la vapeur
+
+Tests via https://www.3-2-1-pizza.fr/contents/fr/d6_CUISSON_du_PAIN.html:
+
+1. laisser chauffer la plaque à pain en bas du four pendant ~30/40min (doit
+   être brulante) en mode gril haut et bas à 300°
+2. enfourner le pain avec un bol d'eau pdt 13min et l'arroser 2/3 fois
+3. baisser la température à 225° et laisser cuire pdt 30min
+4. arroser à la sortie du four
 
 
 ## Pain Burger
@@ -49,13 +59,13 @@ Pour 6 galettes :
 
     100 g de levain
     150 g de farine T65
-    50 cL mL d'eau (à température ambiante)
+    50 mL d'eau (à température ambiante)
     2 cuillères à soupe d'huile d'olive
     1 pincée de sel
 
 70gr pour 1 tortilla de la taille d'une assiette retournée. Épaisseur 2mm/3mm
 
-Cuisson à la poele force 6.
+Cuisson à la poele force 6. ~30 secs de chaque côté (pas plus sinon ca casse une fois sec)
 
 
 ## Pain kebab
@@ -79,7 +89,7 @@ Pour 12 gauffres environ
 Étape 1:
 
 - 260gr farine
-- 4 c à s de sucre (essayer 6 car pas très sucré comme ça)
+- 6 c à s de sucre
 - 470gr de yaourt
 - 280gr de levain non rafraichi (rafraîchir quand même la veille sinon on sent un peu le vinaigre, bcp plus que dans le pain)
 
@@ -88,10 +98,9 @@ Pour 12 gauffres environ
 Étape 4: on rajoute
 - 2 gros oeufs
 - 80gr de beurre fondu
-- 1/2 càc de bicarbonate de soude => semble inutile, donc on enlève
 - 1 pincée de sel
 
-Cuisson machine à gauffre: 3min30sec (voir 4min, ca dépend de la pâte)
+Cuisson machine à gauffre: 4min
 
 
 ## Muffins
