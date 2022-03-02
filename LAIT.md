@@ -4,6 +4,7 @@
 
 - 1L de lait entier
 - 1 sachet de présure ou 1 yaourt
+- 100gr de gelée/coulis
 
 On mélange et on remplis les yaourt
 On lance la yaourtière (bouton yaourt)
